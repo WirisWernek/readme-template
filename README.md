@@ -1,60 +1,32 @@
-## README Template
+<h1 align="center">
+📄<br>README Template
+</h1>
 
-## ☕ Selecione o README que deseja usar
+## 📚 Ebook
 
-[![PERFIL](https://img.shields.io/badge/perfil%20-%23323330.svg?&style=for-the-badge&logo=perfil&logoColor=black&color=FF0080)](https://github.com/iuricode/README-template/tree/main/README-profile)
-[![REPOSITÓRIO](https://img.shields.io/badge/repositório%20-%23323330.svg?&style=for-the-badge&logo=repositório&logoColor=black&color=8000FF)](https://github.com/iuricode/README-template/blob/main/README-repository/iuricode.md)
+> Este repositório é um projeto gratuito para a comunidade de desenvolvedores. Mas você pode me ajudar comprando o ebook "eFront" se estiver interessado em aprender ou melhorar suas habilidades de desenvolvimento frontend. O ebook é completo e cobre tecnologias mais requisitados do mercado como HTML, CSS, JavaScript, Sass, React, TypeScript, Tailwind CSS, React Hook Form e muito mais. O valor é R$25,00 e sua compra me ajuda a produzir e fornecer mais conteúdo gratuito para a comunidade. Adquira agora e comece sua jornada no desenvolvimento frontend.
 
-
-## 🥳 Recursos para os READMEs
-
-[![CARDS ESTRELAS](https://img.shields.io/badge/cards%20estrelas%20-%23323330.svg?&style=for-the-badge&logo=cards%20estrelas&logoColor=black&color=FFFF00)](https://github.com/iuricode/README-template/blob/main/README-cards-stars/cards-stars.md)
-[![Badges](https://img.shields.io/badge/badges%20-%23323330.svg?&style=for-the-badge&logo=badges&logoColor=black&color=0000FF)](https://github.com/iuricode/README-template/blob/main/badges/badges.md)
+- eFront - Estudando frontend do zero. [Clique aqui para comprar](https://iuricode.com/efront)
 
 ---
 
+## Selecione o README que deseja usar
 
-## 🌈 Contribuidores<br>
+[![Perfil](https://img.shields.io/badge/perfil%20-%23323330.svg?&style=for-the-badge&logo=perfil&logoColor=black&color=F745B5)](https://github.com/iuricode/readme-template/tree/main/profile)
+[![Repositório](https://img.shields.io/badge/repositório%20-%23323330.svg?&style=for-the-badge&logo=repositório&logoColor=black&color=8000FF)](https://github.com/iuricode/readme-template/blob/main/repository)
 
-<table>
-  <tr>
-    <td align="center">
-      <a href="#">
-        <img src="https://avatars3.githubusercontent.com/u/31936044" width="100px;" alt="Foto do Iuri Silva no GitHub"/><br>
-        <sub>
-          <b>Iuri Silva</b>
-        </sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="#">
-        <img src="https://avatars1.githubusercontent.com/u/43486606" width="100px;" alt="Foto do Marcelo Santos"/><br>
-        <sub>
-          <b>Marcelo Santos</b>
-        </sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="#">
-        <img src="https://avatars0.githubusercontent.com/u/57146734" width="100px;" alt="Foto da Vanessa Swerts"/><br>
-        <sub>
-          <b>Vanessa Swerts</b>
-        </sub>
-      </a>
-    </td>
-  </tr>
-</table>
 
-## ⛩ Seja um dos contribuidores<br>
+## Recursos para o README
+
+[![Card](https://img.shields.io/badge/cards%20estrelas%20-%23323330.svg?&style=for-the-badge&logo=cards%20estrelas&logoColor=black&color=FFB800)](https://github.com/iuricode/readme-template/blob/main/cards-stats/cards-stats.md)
+[![Badge](https://img.shields.io/badge/badges%20-%23323330.svg?&style=for-the-badge&logo=badges&logoColor=black&color=006DEC)](https://github.com/iuricode/readme-template/blob/main/badges/badges.md)
+
+---
+
+## ☕ Seja um dos contribuidores
 
 Quer fazer parte desse projeto? Clique [AQUI](CONTRIBUTING.md) e leia como contribuir.<br>
 
-## ⚖ Licença
+## 🍜 Licença
 
 Esse projeto está sob licença. Veja o arquivo [LICENÇA](LICENSE.md) para mais detalhes.<br>
-
-## ℹ️ Informações do projeto
-
-![GitHub Repo stars](https://img.shields.io/github/stars/iuricode/README-template?style=for-the-badge)
-![GitHub watchers](https://img.shields.io/github/watchers/iuricode/README-template?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/iuricode/README-template?style=for-the-badge)
